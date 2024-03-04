@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elthiero
+- 👋 Hi, I’m @Donambi Thierry
 - 👀 I’m interested in Information and Technology mostly in networking.
-- 🌱 I’m currently learning Network security
-- 💞️ I’m looking to collaborate on any project concerning networking.
+- 🌱 I’m currently learning Data Science and Cyber security
+- 💞️ I’m looking to collaborate on any project concerning data science and cyber security.
 - 📫 How to reach me: thierrydonambi@gmail.com
 
 <!---
