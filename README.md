@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Donambi Thierry
-- 👀 I’m interested in Information and Technology mostly in networking.
+- 👋 Hi, I’m Donambi Thierry
+- 👀 I’m interested in Cyber Security, Data Science, Networking, and programming.
 - 🌱 I’m currently learning Data Science and Cyber security
-- 💞️ I’m looking to collaborate on any project concerning data science and cyber security.
+- 💞️ I’m looking to collaborate on any project concerning data science, cyber security, Networking, or programming.
 - 📫 How to reach me: thierrydonambi@gmail.com
 
 <!---
