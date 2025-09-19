@@ -1,14 +1,33 @@
-### Hello, I'm Ahourdet Donambi Thierry 👋
+# 👋 Hello, I'm Ahourdet Donambi Thierry  
 
-I'm a **Aspirant Data Engineer | Machine Learning Engineer | AWS Certified Solutions Architect | Google Cybersecurity Certified | Network Engineer**.
+🎓 Current **Master’s student in Big Data Analytics** with hands-on experience in **network operations, data analysis, and cloud solutions**. Passionate about leveraging **data-driven insights** and **secure IT infrastructures** to solve real-world challenges.  
 
-As a **Junior Network Engineer**, I have a robust foundation in IT, specializing in network optimization, cybersecurity, and cloud architecture. I have a strong background in networks and communication systems, and I'm equipped with a Bachelor's degree in Information Technology.
+---
 
-- **Summary of Skills:** I specialize in bridging network and security infrastructures with scalable cloud solutions to ensure secure and efficient data flows. My top skills include **Data Analytics**, **Network Configuration**, and **AWS Cloud Solutions**.
-- **Experience:** I have hands-on experience as a Network Operations Center Technician, monitoring network alarms and KPIs, and collaborating with teams to resolve technical issues.
-- **Certifications:** I am certified in AWS Cloud, Google Cybersecurity, and CISCO, which complements my practical experience.
-- **Collaboration:** I'm interested in collaborating on projects that involve data science, cybersecurity, networking, and cloud resilience.
+## 🛠️ Technical Skills  
 
-Feel free to connect with me via LinkedIn or email:
-- 🌐 [www.linkedin.com/in/thierry-donambi](http://www.linkedin.com/in/thierry-donambi)
-- ✉️ thierrydonambi@gmail.com
+- **Data & Programming:** Statistical Analysis, Data Mining, Python (Pandas, NumPy, Matplotlib, Seaborn), R Programming, SQL, Microsoft Excel  
+- **Network & Cloud:** Network Configuration, Network Security, Network Administration, AWS Cloud Solutions, Linux  
+- **Certifications:** AWS Certified Solutions Architect, AWS Certified Cloud Practitioner, Google Cybersecurity Certified, Cisco Networking Academy Certificates  
+
+---
+
+## 🌍 Other Skills  
+
+- **Languages:** Bilingual in **English & French**  
+- **Professional Attributes:** Detail-oriented, strong teamwork, effective communication, and problem-solving mindset  
+
+---
+
+## 📌 About Me  
+
+- Skilled at bridging **network security** with **cloud-based data solutions**  
+- Experienced in **statistical modeling and data-driven insights** from academic and professional projects  
+- Excited to collaborate on projects involving **data science, cloud resilience, and cybersecurity**  
+
+---
+
+## 📫 Let’s Connect  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thierry-donambi/)  
+- ✉️ thierrydonambi@gmail.com  
