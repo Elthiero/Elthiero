@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ahourdet Donambi Thierry  
+# 👋 Hello, I'm Donambi Thierry  
 
 🎓 Current **Master’s student in Big Data Analytics** with hands-on experience in **network operations, data analysis, and cloud solutions**. Passionate about leveraging **data-driven insights** and **secure IT infrastructures** to solve real-world challenges.  
 
